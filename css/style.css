@@ -36,18 +36,18 @@ body {
     background-color: var(--card-back);
     display: flex;
     flex-direction: row-reverse;
-    width: 1100px;
-    height: 485px;
+    width: 1000px;
+    height: 405px;
     border-radius: 0.5rem;
 }
 .info {
-    margin: 4em 6em 4em 4em;
+    margin: 2em 3.5em 4em 4em;
     color: var(--White);
     font-family: 'Inter', sans-serif;
     font-weight: 700;
 }
 h1 {
-    font-size: 2.3rem;
+    font-size: 2rem;
 }
 span {
     color: var(--accent-violet);
@@ -63,7 +63,7 @@ span {
     display: flex;
     justify-content: space-between;
     margin-right: 4em;
-    margin-top: 3em;
+    margin-top: 2em;
     gap: 1rem;
 }
 .number-stats {
@@ -92,7 +92,7 @@ span {
         display: flex;
         flex-direction: column;
         width: 400px;
-        height: auto;
+        height: 950px;
     }
     .info {
         margin: 2em 3em 4em 3em;
