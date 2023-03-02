@@ -28,7 +28,7 @@ main {
     display: none;
 }
 .image-desktop {
-    width: 50%;
+    width: 496px;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
     filter: invert(5%) sepia(21%) saturate(1200%) hue-rotate(235deg) brightness(60%) contrast(95%);
@@ -38,7 +38,7 @@ main {
     display: flex;
     flex-direction: row-reverse;
     width: 1000px;
-    height: 405px;
+    height: 410px;
     border-radius: 0.5rem;
 }
 .info {
